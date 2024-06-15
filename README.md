@@ -40,9 +40,3 @@
 <img src="https://raw.githubusercontent.com/xramadhann/xramadhann/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31o6azbn2zbc7g4di2iugpsi7q3m&count={count})?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
-
-###
